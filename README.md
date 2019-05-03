@@ -1,7 +1,7 @@
 # python-icon-generate
 react-native 自动配置替换图标和启动图，支持iOS和Android
 
-##使用方法
+## 使用方法
 下载 icon.py 文件，放在项目根目录下
 
 方法一：直接
@@ -9,7 +9,7 @@ react-native 自动配置替换图标和启动图，支持iOS和Android
  ```python
 python icon.py path
 ```
-方法二：在项目根目录下创建res文件夹，放入 icon 图标 和 启动图，执行脚本
+方法二：在项目根目录下创建res文件夹，加入 icon 图标 和 启动图，执行脚本
 ```python
 python icon.py
 ```
