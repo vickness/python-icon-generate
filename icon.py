@@ -364,7 +364,7 @@ def create_android_splash():
                 print '创建 %s' % dir_path
 
             # 保存图片到路径
-            file_path = "%s/ic_launcher.png" % dir_path
+            file_path = "%s/launch_screen.png" % dir_path
             image.save(file_path, "png")
 
     print 'Android splash 配置完成'

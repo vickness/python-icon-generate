@@ -1,6 +1,12 @@
 # python-icon-generate
 react-native 自动配置替换图标和启动图，支持iOS和Android
 
+## 文件目录
+<p align="center">
+<img src="https://github.com/vickness/python-icon-generate/blob/master/screenshot/image1.jpg" width="300">
+<img src="https://github.com/vickness/python-icon-generate/blob/master/screenshot/image2.jpg" width="300">
+</p>
+
 ## 使用方法
 下载 icon.py 文件，放在项目根目录下
 
@@ -14,8 +20,7 @@ python icon.py path
 python icon.py
 ```
 
-
-文件尺寸列表
+## 文件尺寸列表
 ```text
 icon - 1024x1024
 
@@ -34,3 +39,7 @@ android-launch - 720x1280
 android-launch - 960x1600
 android-launch - 1280x1920
 ```
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
